@@ -1,3 +1,4 @@
+import '/auth/firebase_auth/auth_util.dart';
 import '/backend/backend.dart';
 import '/flutter_flow/flutter_flow_icon_button.dart';
 import '/flutter_flow/flutter_flow_theme.dart';
@@ -541,6 +542,10 @@ class _AjouterUneCommandeWidgetState extends State<AjouterUneCommandeWidget> {
                                   destination: _model.textController2.text,
                                   prix:
                                       int.tryParse(_model.textController3.text),
+                                  whoCommandIt: currentUserReference,
+                                  isCommandValidated: false,
+                                  isCommandAccepted: false,
+                                  isCommandRefused: false,
                                 ));
                           },
                           text: 'Enregistrer',
