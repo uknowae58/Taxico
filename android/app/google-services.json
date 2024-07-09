@@ -1,0 +1,98 @@
+{
+  "project_info": {
+    "project_number": "1083890357561",
+    "firebase_url": "https://saki-taxico.firebaseio.com",
+    "project_id": "saki-taxico",
+    "storage_bucket": "saki-taxico.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1083890357561:android:2a3f312a9d6870368284e8",
+        "android_client_info": {
+          "package_name": "com.example.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1083890357561-l5nepbuvp72ffi975i1cqsmvd7emi8tj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDWQ3NXmsIJGr2rJ5lUBptDiwVDjRHXiN4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1083890357561-l5nepbuvp72ffi975i1cqsmvd7emi8tj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1083890357561:android:a749787c9e071d1f8284e8",
+        "android_client_info": {
+          "package_name": "com.example.taxico"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1083890357561-l5nepbuvp72ffi975i1cqsmvd7emi8tj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDWQ3NXmsIJGr2rJ5lUBptDiwVDjRHXiN4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1083890357561-l5nepbuvp72ffi975i1cqsmvd7emi8tj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1083890357561:android:ad6ef5c47f088c758284e8",
+        "android_client_info": {
+          "package_name": "com.mycompany.taxico"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1083890357561-l5nepbuvp72ffi975i1cqsmvd7emi8tj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDWQ3NXmsIJGr2rJ5lUBptDiwVDjRHXiN4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1083890357561-l5nepbuvp72ffi975i1cqsmvd7emi8tj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

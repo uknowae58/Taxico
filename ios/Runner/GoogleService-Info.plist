@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>API_KEY</key>
+	<string>AIzaSyCMkulvS-hLGe_dCDa-Zw3HBxBWuZGlko4</string>
+	<key>GCM_SENDER_ID</key>
+	<string>1083890357561</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.mycompany.taxico</string>
+	<key>PROJECT_ID</key>
+	<string>saki-taxico</string>
+	<key>STORAGE_BUCKET</key>
+	<string>saki-taxico.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:1083890357561:ios:eb87d5c754d666888284e8</string>
+	<key>DATABASE_URL</key>
+	<string>https://saki-taxico.firebaseio.com</string>
+</dict>
+</plist>
